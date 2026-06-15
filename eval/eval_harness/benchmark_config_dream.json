@@ -1,0 +1,164 @@
+{
+  "mmlu_generative": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 5,
+    "task": "mmlu_generative"
+  },
+  "hellaswag_generative": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 5,
+    "task": "hellaswag_generative"
+  },
+  "piqa_generative": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 5,
+    "task": "piqa_generative"
+  },
+  "winogrande_generative": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 5,
+    "task": "winogrande_generative"
+  },
+  "gpqa_main_cot_n_shot": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 0,
+    "task": "gpqa_main_cot_n_shot"
+  },
+  "gsm8k_cot": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 8,
+    "task": "gsm8k_cot"
+  },
+  "mmlu_generative_short": {
+    "steps": 16,
+    "gen_length": 16,
+    "fewshot": 5,
+    "task": "mmlu_generative"
+  },
+  "mmlu_generative_g16": {
+    "steps": 16,
+    "gen_length": 16,
+    "fewshot": 5,
+    "task": "mmlu_generative"
+  },
+  "mmlu_generative_g32": {
+    "steps": 32,
+    "gen_length": 32,
+    "fewshot": 5,
+    "task": "mmlu_generative"
+  },
+  "mmlu_generative_g64": {
+    "steps": 64,
+    "gen_length": 64,
+    "fewshot": 5,
+    "task": "mmlu_generative"
+  },
+  "hellaswag_generative_g16": {
+    "steps": 16,
+    "gen_length": 16,
+    "fewshot": 5,
+    "task": "hellaswag_generative"
+  },
+  "hellaswag_generative_g32": {
+    "steps": 32,
+    "gen_length": 32,
+    "fewshot": 5,
+    "task": "hellaswag_generative"
+  },
+  "hellaswag_generative_g64": {
+    "steps": 64,
+    "gen_length": 64,
+    "fewshot": 5,
+    "task": "hellaswag_generative"
+  },
+  "piqa_generative_g16": {
+    "steps": 16,
+    "gen_length": 16,
+    "fewshot": 5,
+    "task": "piqa_generative"
+  },
+  "piqa_generative_g32": {
+    "steps": 32,
+    "gen_length": 32,
+    "fewshot": 5,
+    "task": "piqa_generative"
+  },
+  "piqa_generative_g64": {
+    "steps": 64,
+    "gen_length": 64,
+    "fewshot": 5,
+    "task": "piqa_generative"
+  },
+  "winogrande_generative_g16": {
+    "steps": 16,
+    "gen_length": 16,
+    "fewshot": 5,
+    "task": "winogrande_generative"
+  },
+  "winogrande_generative_g32": {
+    "steps": 32,
+    "gen_length": 32,
+    "fewshot": 5,
+    "task": "winogrande_generative"
+  },
+  "winogrande_generative_g64": {
+    "steps": 64,
+    "gen_length": 64,
+    "fewshot": 5,
+    "task": "winogrande_generative"
+  },
+  "mmlu_generative_fs0": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 0,
+    "task": "mmlu_generative"
+  },
+  "hellaswag_generative_fs0": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 0,
+    "task": "hellaswag_generative"
+  },
+  "winogrande_generative_fs0": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 0,
+    "task": "winogrande_generative"
+  },
+  "winogrande_generative_fs1": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 1,
+    "task": "winogrande_generative"
+  },
+  "winogrande_generative_fs3": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 3,
+    "task": "winogrande_generative"
+  },
+  "piqa_generative_fs0": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 0,
+    "task": "piqa_generative"
+  },
+  "piqa_generative_fs1": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 1,
+    "task": "piqa_generative"
+  },
+  "piqa_generative_fs3": {
+    "steps": 256,
+    "gen_length": 256,
+    "fewshot": 3,
+    "task": "piqa_generative"
+  }
+}

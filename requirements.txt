@@ -1,0 +1,14 @@
+# Core
+torch>=2.1
+transformers>=4.46
+accelerate>=1.0
+numpy>=1.26
+tqdm>=4.66
+
+# Evaluation harness + benchmark datasets
+lm_eval>=0.4.9
+datasets>=2.18
+regex>=2024.0
+
+# HumanEval / MBPP code execution scoring (https://github.com/openai/human-eval)
+human-eval @ git+https://github.com/openai/human-eval.git
