@@ -82,8 +82,13 @@ python examples/dream_less_vs_base.py
 python examples/llada_less_vs_base.py
 ```
 
-<!-- ## Citation
+## Citation
 
 ```bibtex
-
-``` -->
+@article{mohamed2026less,
+  title={LESS Is More: Mutual-Stability Sampling for Diffusion Language Models},
+  author={Mohamed, Amr and Shang, Guokan and Vazirgiannis, Michalis},
+  journal={arXiv preprint arXiv:2606.16908},
+  year={2026}
+}
+```
